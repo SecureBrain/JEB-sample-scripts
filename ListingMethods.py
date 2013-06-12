@@ -13,7 +13,7 @@ class ListingMethods(IScript):
         self.dex = j.getDex()
         if not self.dex:
             print 'Error! Please provide an input file.'
-            sef.jeb.exit()
+            j.exit()
 
         self.listing()
 
