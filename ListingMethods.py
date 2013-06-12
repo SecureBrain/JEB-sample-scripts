@@ -6,7 +6,6 @@
 import os
 
 from jeb.api import IScript
-from jeb.api import EngineOption
 
 class ListingMethods(IScript):
     def run(self, j):
