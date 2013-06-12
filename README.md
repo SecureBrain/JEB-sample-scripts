@@ -1,14 +1,12 @@
-= JEB Sample Scripts
-Sample scripts for [JEB](http://www.android-decompiler.com/index.php) (Android Interactive Decompiler)
+# JEB Sample Scripts
+Sample automation scripts for [JEB(Android Interactive Decompiler)](http://www.android-decompiler.com/index.php).
 
-== Usage
-Usage of JEB automation is [here](http://www.android-decompiler.com/manual.php#automation)
+## Usage
+Usage of JEB automation is [here](http://www.android-decompiler.com/manual.php#automation).
 
-== Sample
+## Sample
 - ListingMethods.py
+    - Print all methods in dex.
 
-== License
-MIT License. See License.txt
-
-== Copyright
+## Copyright
 Copyright (c) 2013 SecureBrain.
