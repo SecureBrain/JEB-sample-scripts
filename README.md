@@ -5,6 +5,8 @@ Sample automation scripts for [JEB(Android Interactive Decompiler)](http://www.a
 Usage of JEB automation is [here](http://www.android-decompiler.com/manual.php#automation).
 
 ## Sample
+- HelloWorld.py
+    - Display message box.
 - ListingMethods.py
     - Print all methods in dex.
 
