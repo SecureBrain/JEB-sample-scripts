@@ -4,6 +4,8 @@ Sample automation scripts for [JEB(Android Interactive Decompiler)](http://www.a
 ## Usage
 Usage of JEB automation is [here](http://www.android-decompiler.com/manual.php#automation).
 
+JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
+
 ## Sample
 - HelloWorld.py
     - Display message box.
