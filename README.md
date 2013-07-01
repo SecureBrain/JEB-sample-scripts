@@ -7,11 +7,11 @@ Usage of JEB automation is [here](http://www.android-decompiler.com/manual.php#a
 JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
 
 ## Sample
-- HelloWorld.py
+- [HelloWorld.py](HelloWorld.py)
     - Display message box.
-- ListingMethods.py
+- [ListingMethods.py](ListingMethods.py)
     - Print all methods in dex.
-- InvokedMethods.py
+- [InvokedMethods.py](InvokedMethods.py)
     - Get caret position and print invoked methods from it.
 
 ## Copyright
