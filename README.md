@@ -13,6 +13,9 @@ JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
     - Print all methods in dex.
 - [InvokedMethods.py](InvokedMethods.py)
     - Get caret position and print invoked methods from it.
+- [RenameObfuscatedClasses.py](RenameObfuscatedClasses.py)
+    - Rename obfuscated class names by using super class name. 
+
 
 ## Copyright
 Copyright (c) 2013 SecureBrain.
