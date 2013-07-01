@@ -11,6 +11,8 @@ JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
     - Display message box.
 - ListingMethods.py
     - Print all methods in dex.
+- InvokedMethods.py
+    - Get caret position and print invoked methods from it.
 
 ## Copyright
 Copyright (c) 2013 SecureBrain.
