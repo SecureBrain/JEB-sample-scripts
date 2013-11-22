@@ -15,6 +15,8 @@ JEB API reference is [here](http://www.android-decompiler.com/apidoc/).
     - Get caret position and print invoked methods from it.
 - [RenameObfuscatedClasses.py](RenameObfuscatedClasses.py)
     - Rename obfuscated class names by using super class name. 
+- [AlertMarker.py](AlertMarker.py)
+    - Set(unset) alert marker to focused method.
 
 
 ## Copyright
